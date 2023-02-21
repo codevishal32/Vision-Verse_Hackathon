@@ -6,4 +6,4 @@ Event Description The ML based event that will address the issue of crop monitor
 https://xpecto.tech/event?event=Vision%20Verse
 
 #Certificate:
-![alt text](https://drive.google.com/file/d/18wiaQHhspUqrJXqmtD1fDKACpUm2fAEt/view?usp=sharing)
+![image](https://drive.google.com/file/d/18wiaQHhspUqrJXqmtD1fDKACpUm2fAEt/view?usp=sharing)
