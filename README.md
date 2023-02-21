@@ -7,3 +7,4 @@ https://xpecto.tech/event?event=Vision%20Verse
 
 #Certificate:
 ![image](https://drive.google.com/file/d/18wiaQHhspUqrJXqmtD1fDKACpUm2fAEt/view?usp=sharing)
+<a href="https://drive.google.com/file/d/18wiaQHhspUqrJXqmtD1fDKACpUm2fAEt/view?usp=sharing"><img src="https://drive.google.com/file/d/18wiaQHhspUqrJXqmtD1fDKACpUm2fAEt/view?usp=sharing" style="width: 650px; max-width: 100%; height: auto" title="Click to enlarge picture" />
